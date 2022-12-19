@@ -51,4 +51,7 @@ I am an <strong>electrical engineer</strong> ⚡ and <strong>programmer</strong>
 ![Overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
 
 ## Analytics
-<p><img height="170rem" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoacr&show_icons=true&locale=en&layout=compact" alt="leonardoacr" /></p> <p>&nbsp;<img height="170rem" align="center" src="https://github-readme-stats.vercel.app/api?username=leonardoacr&show_icons=true&locale=en" alt="leonardoacr" /></p>
+<div>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoacr&show_icons=true&locale=en&layout=compact" alt="leonardoacr" /> 
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=leonardoacr&show_icons=true&locale=en" alt="leonardoacr" />
+</div>
