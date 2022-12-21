@@ -12,6 +12,15 @@ I am an <strong>electrical engineer</strong> ⚡ and <strong>programmer</strong>
 <p align="left">
 </p>
 
+## Contact
+  
+<div style="display: inline_block">
+  <a href="mailto: leonardoacrg.dev@gmail.com"> <img width="20em" src="https://www.logo.wine/a/logo/Gmail/Gmail-Logo.wine.svg"></a>
+  <a href="mailto: leonardoacrg.dev@gmail.com">leonardoacr.dev</a>
+  |
+  <a href="https://www.linkedin.com/in/leonardoacr"><img width="13em" src="https://cdn-icons-png.flaticon.com/512/174/174857.png"></a>
+  <a href="https://www.linkedin.com/in/leonardoacr">leonardoacr</a>
+
 ## Skills
 
 ### Programming languages
