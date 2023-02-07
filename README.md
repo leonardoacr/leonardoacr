@@ -5,6 +5,22 @@
 <p align="left"> 
 I am an <strong>electrical engineer</strong> ⚡ and <strong>programmer</strong> 👨‍💻 from Brazil! 100% passionate about technology, curious about how things work and thrilled to solve complex problems. <br><br> ~ I fell in love with web development in mid-2022 and have been dedicating myself almost full time studying it, specially backend with Node.js. 🚀
 </p>
+
+:books: Current learning (study guide):
+ * <strong>Backend Technologies</strong>
+   * PostgreSQL | SQLite | MySQL w/ AWS Cloud Database
+   * NestJS
+   * Prisma ORM
+   * GraphQL
+ * <strong>Frontend Technologies</strong>
+   * ReactJS
+   * Tailwind CSS
+ * <strong>General</strong>
+   * Gitlab CI/CD
+   * AWS
+   * Tests
+   * Docker
+   * DDD (Domain Driven Design)
 <h3 align="center"> </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardoacr&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoacr" /> </p>
