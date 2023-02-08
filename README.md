@@ -8,7 +8,7 @@ I am an <strong>electrical engineer</strong> ⚡ and <strong>programmer</strong>
 
 :books: Current learning (study guide):
  * <strong>Backend Technologies</strong>
-   * PostgreSQL | SQLite | MySQL w/ AWS Cloud Database
+   * SQLite | MySQL and PostgreSQL w/ AWS Cloud Database
    * NestJS
    * Prisma ORM
    * GraphQL
