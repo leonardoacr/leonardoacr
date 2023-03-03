@@ -23,8 +23,6 @@ I am an <strong>electrical engineer</strong> ⚡ and <strong>programmer</strong>
    * DDD (Domain Driven Design)
 <h3 align="center"> </h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=leonardoacr&label=Profile%20views&color=0e75b6&style=flat" alt="leonardoacr" /> </p>
-
 <p align="left">
 </p>
 
@@ -48,6 +46,7 @@ I am an <strong>electrical engineer</strong> ⚡ and <strong>programmer</strong>
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 
 
 ### Tools
