@@ -76,6 +76,6 @@ I am an <strong>electrical engineer</strong> ⚡ and <strong>programmer</strong>
 
 ## Analytics
 <div>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoacr&show_icons=true&locale=en&layout=compact" alt="leonardoacr" /> 
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs?username=leonardoacr&hide=jupyter%20notebook&show_icons=true&locale=en&layout=compact" alt="leonardoacr" /> 
 <img height="150em" src="https://github-readme-stats.vercel.app/api?username=leonardoacr&show_icons=true&locale=en" alt="leonardoacr" />
 </div>
