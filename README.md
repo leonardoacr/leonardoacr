@@ -112,8 +112,11 @@ I am an <strong>electrical engineer</strong> ⚡ and <strong>programmer</strong>
           <img src="https://img.shields.io/badge/express.js-%23404d59.svg?&logo=express&logoColor=%2361DAFB" alt="Express">
           <img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?&logo=nestjs&logoColor=white" alt="Vercel">
           <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?&logo=django&logoColor=white&color=ff1709&labelColor=gray" alt="Django">
+          <img src="https://img.shields.io/badge/react-%2320232a.svg?logo=react&logoColor=%2361DAFB">
+          <img src="https://img.shields.io/badge/Next-black?logo=next.js&logoColor=white">
           <img src="https://img.shields.io/badge/Bootstrap-563D7C?&logo=bootstrap&logoColor=white" alt="Bootstrap">
           <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?&logo=tailwind-css&logoColor=white" alt="TailwindCSS">
+          <img src="https://img.shields.io/badge/chakra-%234ED1C5.svg?logo=chakraui&logoColor=white">
         </div>
       </div>
     </td>
