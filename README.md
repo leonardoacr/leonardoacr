@@ -3,26 +3,38 @@
 <h1 align="center">Heey! I'm Leonardo 👋</h1>
 
 <p align="left"> 
-I am an <strong>electrical engineer</strong> ⚡ and <strong>programmer</strong> 👨‍💻 from Brazil! 100% passionate about technology, curious about how things work and thrilled to solve complex problems. <br><br> ~ I fell in love with web development in mid-2022 and have been dedicating myself almost full time studying it, specially backend with Node.js. 🚀
+I am an <strong>electrical engineer</strong> ⚡ and <strong>programmer</strong> 👨‍💻 from Brazil! Passionate about technology, I am curious about how things work and thrilled to solve complex problems. I fell in love with software development during my graduation and have since dedicated myself to studying web development and data science. 
+<br><br>
+Currently, I work for <a href="https://www.weg.net" target="_blank">WEG Group</a> and run my website <a href="https://www.tunnelscreen.cloud" target="_blank">TunnelScreen</a>. 🚀
 </p>
 
-:books: Current learning (study guide):
+:books: Technologies I'm currently working with:
 
 - <strong>Backend Technologies</strong>
-  - SQLite | MySQL and PostgreSQL w/ AWS Cloud Database
   - NestJS
+  - Swagger
+  - Redis
   - Prisma ORM
-  - GraphQL
+  - PostgreSQL
+  - Kubernetes / K3s | RKE / Rancher
+  - Linode (frontend & backend websites deployment in Linux VM clusters)
 - <strong>Frontend Technologies</strong>
   - ReactJS
+  - Angular
   - Tailwind CSS
 - <strong>General</strong>
   - Gitlab CI/CD
   - AWS
   - Tests
   - Docker
-  - DDD (Domain Driven Design)
-  <h3 align="center"> </h3>
+
+### [WEG Group](https://www.weg.net)
+- Collaborating with a team to develop a fullstack website aimed at enhancing electric motor quality assurance in factory production through statistical analysis.
+
+### [TunnelScreen](https://www.tunnelscreen.cloud)
+- A platform for connecting with friends to watch movies or series, share screens, all at no cost, and enjoy 1080p high-quality audio with a built-in chat, also planning a mobile app for the future!
+  
+<h3 align="center"> </h3>
 
 <p align="left">
 </p>
@@ -40,7 +52,7 @@ I am an <strong>electrical engineer</strong> ⚡ and <strong>programmer</strong>
 </div>
 
 <div align="center">
-<h2>📚 Knowledge</h2>
+<h2>📚 Skills</h2>
 </div>
 
 <div align="center">
