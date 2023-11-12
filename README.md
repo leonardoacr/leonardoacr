@@ -5,8 +5,19 @@
 <p align="left"> 
 I am an <strong>electrical engineer</strong> ⚡ and <strong>programmer</strong> 👨‍💻 from Brazil! Passionate about technology, I am curious about how things work and thrilled to solve complex problems. I fell in love with software development during my graduation and have since dedicated myself to studying web development and data science. 
 <br><br>
-Currently, I work for <a href="https://www.weg.net" target="_blank">WEG Group</a> and run my website <a href="https://www.tunnelscreen.cloud" target="_blank">TunnelScreen</a>. 🚀
-</p>
+  
+:computer: Currently working for:
+
+### [WEG Group](https://www.weg.net)
+- Collaborating with a team to develop a fullstack website aimed at enhancing electric motor quality assurance in factory production through statistical analysis.
+
+### [TunnelScreen](https://www.tunnelscreen.cloud)
+- A platform for connecting with friends to watch movies or series, share screens, all at no cost, and enjoy 1080p high-quality audio with a built-in chat, also planning a mobile app for the future!
+  
+### [DCDC Converters Design](https://play.google.com/store/apps/details?id=com.dcdcconvertersdesigndemo)
+- A android app for designing DCDC Converters, with both CCM and DCM support with full simulation capabilities!
+
+<br/>
 
 :books: Technologies I'm currently working with:
 
@@ -28,12 +39,6 @@ Currently, I work for <a href="https://www.weg.net" target="_blank">WEG Group</a
   - Tests
   - Docker
 
-### [WEG Group](https://www.weg.net)
-- Collaborating with a team to develop a fullstack website aimed at enhancing electric motor quality assurance in factory production through statistical analysis.
-
-### [TunnelScreen](https://www.tunnelscreen.cloud)
-- A platform for connecting with friends to watch movies or series, share screens, all at no cost, and enjoy 1080p high-quality audio with a built-in chat, also planning a mobile app for the future!
-  
 <h3 align="center"> </h3>
 
 <p align="left">
